@@ -5,6 +5,7 @@ body {
   
   #quiz {
     margin-bottom: 50px;
+    background: linear-gradient(to right , blue , pink);
   }
   
   #submit {
